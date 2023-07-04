@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1088677239830",
+    "project_id": "rentmyride-b35df",
+    "storage_bucket": "rentmyride-b35df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088677239830:android:b93f03fe6c85da8d8f6937",
+        "android_client_info": {
+          "package_name": "com.example.rent_my_ride_s1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088677239830-aag4ocjg5vb19llf0srmno66aqh3jr6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEWJyXsg3ZzOt7s4qj9-rtbYyygBB3vX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088677239830-aag4ocjg5vb19llf0srmno66aqh3jr6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
